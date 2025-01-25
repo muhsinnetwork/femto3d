@@ -127,18 +127,6 @@
       margin-left: 0px;
     }
   }
-  body {
-    animation: fadeIn 1.5s ease-in-out;
-}
-
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
 .social-icons {
   list-style: none;
   padding: 0;
@@ -161,4 +149,15 @@
   color: #007BFF; /* Icon color on hover (e.g., blue) */
 }
 
+  body {
+    animation: fadeIn 1.5s ease-in-out;
+}
 
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
