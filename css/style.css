@@ -139,3 +139,26 @@
         opacity: 1;
     }
 }
+.social-icons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Center aligns the icons */
+  gap: 10px; /* Space between icons */
+}
+
+.social-icons li {
+  display: inline-block;
+}
+
+.social-icons a {
+  color: #333; /* Default icon color */
+  font-size: 24px; /* Icon size */
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #007BFF; /* Icon color on hover (e.g., blue) */
+}
+
+
