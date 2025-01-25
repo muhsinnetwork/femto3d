@@ -144,7 +144,7 @@
   padding: 0;
   display: flex;
   justify-content: center; /* Center aligns the icons */
-  gap: 10px; /* Space between icons */
+  gap: 10px; 
 }
 
 .social-icons li {
