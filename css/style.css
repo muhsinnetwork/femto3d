@@ -140,7 +140,7 @@
 }
 
 .social-icons a {
-  color: grey; /* Default icon color */
+  color: black; /* Default icon color */
   font-size: 24px; /* Icon size */
   transition: color 0.3s ease;
 }
